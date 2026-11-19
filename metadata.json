@@ -1,0 +1,6 @@
+{
+  "name": "PANDA — A Journey Through China",
+  "description": "An immersive 3D natural history documentary and Mandarin Chinese learning platform exploring the giant panda across nine interactive chapters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
